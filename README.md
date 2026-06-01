@@ -41,11 +41,6 @@ malak = {
         "Software Development"
     ],
 
-    "tools": [
-        "ChatGPT",
-        "Claude"
-    ],
-
     "interests": [
         "AI",
         "Technology",
