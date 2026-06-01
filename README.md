@@ -9,7 +9,7 @@
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/github/followers/MalakMohi?label=Follow&style=social)](https://github.com/MalakMohi)
 
 ### 👩‍💻 A little more about me...
 
@@ -37,7 +37,7 @@ malak = {
     "exploring": [
         "Artificial Intelligence",
         "Machine Learning",
-        "AI Tools",
+        "AI Applications",
         "Software Development"
     ],
 
