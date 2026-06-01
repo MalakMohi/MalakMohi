@@ -8,7 +8,7 @@
 🌱 Currently strengthening my Python skills, learning Git & GitHub, and building programming projects
 </em></p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malak-ahmed-393916412)
 [![GitHub](https://img.shields.io/github/followers/MalakMohi?label=Follow&style=social)](https://github.com/MalakMohi)
 
 ### 👩‍💻 A little more about me...
