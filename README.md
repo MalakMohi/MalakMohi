@@ -1,29 +1,76 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Malak Mohi Eldin 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em>
+🎓 Bachelor of Science in Artificial Intelligence Student at Ajman University <br>
+💻 Former Computer Engineering Student <br>
+🌱 Currently strengthening my Python skills, learning Git & GitHub, and building programming projects
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
 
+### 👩‍💻 A little more about me...
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```python
+malak = {
+    "pronouns": ["she", "her"],
+    "education": "B.Sc. Artificial Intelligence",
+    "university": "Ajman University",
+    "previous_major": "Computer Engineering",
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "HTML"
+    ],
+
+    "currently_learning": [
+        "Git & GitHub",
+        "Python Development",
+        "Problem Solving",
+        "Building Projects"
+    ],
+
+    "exploring": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "AI Tools",
+        "Software Development"
+    ],
+
+    "tools": [
+        "ChatGPT",
+        "Claude"
+    ],
+
+    "interests": [
+        "AI",
+        "Technology",
+        "Women in STEM",
+        "Creating Useful Projects"
+    ],
+
+    "goal": "Building strong programming foundations and growing into an AI Engineer"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### 🚀 Current Focus
+
+- Building beginner Python projects
+- Learning Git and GitHub
+- Strengthening programming and implementation skills
+- Practicing problem-solving through coding
+- Preparing for deeper study in Artificial Intelligence and Machine Learning
+
+### 📈 GitHub Journey
+
+Currently documenting my learning journey through projects, coursework, and experiments as I build a strong foundation in programming and Artificial Intelligence.
+
+💡 Every project here represents a step forward in my growth as a developer and AI student.
 
 ---
+
+⭐ Feel free to explore my repositories and follow my journey!
